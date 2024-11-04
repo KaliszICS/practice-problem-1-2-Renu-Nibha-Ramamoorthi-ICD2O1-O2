@@ -11,19 +11,19 @@ def q2():
   a = 3 
   b = 5
   c = 2 
-  print(3+5+2) 
+  print(a+b+c) 
 def q3():
   #Write Assignment code here
   a = 21
   b = 4 
   quotient = a//b 
-  print(quotienet) 
+  print(quotient) 
 def q4():
   #Write Assignment code here
   a = 6.3 
   b = 3.0 
   quotient = a/b 
-  print(quotienet) 
+  print(quotient) 
 def q5():
   #Write Assignment code here
   a = "Hello World" 
